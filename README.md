@@ -1,5 +1,5 @@
 # MIAF-Net-Main
-Demo code of ["MIAF-Net: Multiscale Interactive Attention Fusion Network for Hyperspectral Image Classification"]([https://ieeexplore.ieee.org/document/9851468](https://www.sciencedirect.com/science/article/abs/pii/S0957417425020056))
+Demo code of ["MIAF-Net: Multiscale Interactive Attention Fusion Network for Hyperspectral Image Classification"](https://www.sciencedirect.com/science/article/abs/pii/S0957417425020056)
 
 ## Citation
 If you find this work interesting in your research, please kindly cite:
