@@ -15,7 +15,6 @@ author = {Jinliang An and Longlong Dai and Weidong Zhang and Xiangrong Zhang}
 }
 
 ```
-Thank you very much! ✧◝(⁰▿⁰)◜✧
 
 If you have any questions, please feel free to contact me (Longlong Dai, dailonglong@stu.hist.edu.cn).
 
