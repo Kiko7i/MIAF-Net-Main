@@ -18,4 +18,4 @@ author = {Jinliang An and Longlong Dai and Weidong Zhang and Xiangrong Zhang}
 
 If you have any questions, please feel free to contact me (Longlong Dai, dailonglong@stu.hist.edu.cn).
 
-The code will be released soon.
+The code will be released soon. ๑_๑ᐝ
