@@ -9,9 +9,6 @@ Demo code of ["MIAF-Net: Multiscale Interactive Attention Fusion Network for Hyp
 <img src="MIAF.png" width="700px">
 </div>
 
-
-
-
 ### 🥰 Citation	
 
 **Please kindly cite the papers if this code is useful and helpful for your research.**
